@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "it's git commands practies applications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandarulakshminarasimham/calculator_v1.1.git"
+  },
+  "author": "Lakshmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bandarulakshminarasimham/calculator_v1.1/issues"
+  },
+  "homepage": "https://github.com/bandarulakshminarasimham/calculator_v1.1#readme"
+}
