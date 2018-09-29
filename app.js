@@ -1,5 +1,5 @@
 const http = require('http')
-
+//this is step 2
 // exposing default api request and response
 http.createServer(function (req, res) {
 	res.writeHead(200, {'Content-Type': 'text/plain'});
