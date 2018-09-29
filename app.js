@@ -1,5 +1,6 @@
 const http = require('http')
 
+// exposing default api request and response
 http.createServer(function (req, res) {
 	res.writeHead(200, {'Content-Type': 'text/plain'});
 	// Send the response body as "Hello World"
